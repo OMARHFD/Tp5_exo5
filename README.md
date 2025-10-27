@@ -1,7 +1,7 @@
 README
-Team member 1
+Team member 1 :
 
 
-Team member 3: 
-This section is for member 3
+Team member 2 :
 
+This section is for Aymen
